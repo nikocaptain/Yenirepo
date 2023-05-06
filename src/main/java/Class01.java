@@ -9,6 +9,8 @@ public class Class01 {
         //V4 gitpush ile direk github a gönderilir.
 
         //V5 Local den sevgilerle
+        
+        //yeni kod
 
 
 
