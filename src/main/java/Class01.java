@@ -6,6 +6,8 @@ public class Class01 {
 
         //V3 githuba yükleme...NB...
 
+        //V4 gitpush ile direk github a gönderilir.
+
 
 
     }
